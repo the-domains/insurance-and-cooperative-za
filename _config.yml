@@ -1,0 +1,28 @@
+name: 'Insurance & Cooperative ZA'
+favicon: null
+layout_spectrum: 0.8169084438122809
+typography_spectrum: 0.7250485341064632
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6350153519306332
+  lightness: 0.42555151134729385
+  saturation: 0.6087846453301609
+  rhythmicContrast: 0.4187929022591561
+purpose: []
